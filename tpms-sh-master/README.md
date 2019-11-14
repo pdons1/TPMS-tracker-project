@@ -1,6 +1,8 @@
 # tpms-sh
 Shell script for adding the TPMS project from ACI onto your computer
+
 PARTS LIST
+
 Laptop that runs the latest version of Ubuntu (https://ubuntu.com/download/desktop)
 (21.95) RTL-SDR USB dongle (https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0129EBDS2/ref=asc_df_B0129EBDS2/?tag=hyprod-20&linkCode=df0&hvadid=309707619534&hvpos=1o1&hvnetw=g&hvrand=17863131408284977176&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9004277&hvtargid=pla-760665313632&psc=1)
 An antenna of your choice that is compatible with the RTL-SDR
