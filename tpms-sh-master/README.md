@@ -9,4 +9,5 @@ An antenna of your choice that is compatible with the RTL-SDR
 
 
 rtl_433 -M newmodel -f315m  -S all -R 59 -R 60 -R 82 -R 88 -R 89 -R 90 -R 95 -R 110 -R 123
+
 After installing the appropriate code from this repository, in terminal enter the line of code above to execute the program.
